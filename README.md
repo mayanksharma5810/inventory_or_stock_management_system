@@ -25,7 +25,7 @@ Screen Output
 ![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/2a3c07da-6d8a-4eab-b933-1b528dbf92f3)
 ![image](https://github.com/mayanksharma20/inventory_or_stock_management_system/assets/47239249/a65b2349-101c-42f3-89f0-1b2e94215992)
 
-For proper Documentation <br/>contact mayank0708s@gmail.com<br />
+For proper Documentation <br/>contact <br />
 Thankyou!
 
 
